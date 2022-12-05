@@ -1,0 +1,1 @@
+{ 	"name": "Stefan Maier — AIP Congress Special Session", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#000", 	"description": "AIP Congress Stefan Maier Metasurface Session", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "144x144", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
